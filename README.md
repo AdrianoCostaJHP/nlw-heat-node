@@ -6,7 +6,7 @@
   NLW Heat - Node.js
 </h1>
 
-<p align = "center">App de mensagens em tempo real usando socket.io </p>
+<p align = "center">Backend feito em prisma e utilizando socket.io para comunicação em tempo real :iphone: </p>
 
 <p align = "center">
   <a href="https://opensource.org/licenses/MIT">
